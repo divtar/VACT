@@ -1,0 +1,12 @@
+C:\Users\ctrujillogam\source\repos\VACT\VACT.Models\bin\Debug\net8.0\VACT.Models.deps.json
+C:\Users\ctrujillogam\source\repos\VACT\VACT.Models\bin\Debug\net8.0\VACT.Models.dll
+C:\Users\ctrujillogam\source\repos\VACT\VACT.Models\bin\Debug\net8.0\VACT.Models.pdb
+C:\Users\ctrujillogam\source\repos\VACT\VACT.Models\obj\Debug\net8.0\VACT.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ctrujillogam\source\repos\VACT\VACT.Models\obj\Debug\net8.0\VACT.Models.AssemblyInfoInputs.cache
+C:\Users\ctrujillogam\source\repos\VACT\VACT.Models\obj\Debug\net8.0\VACT.Models.AssemblyInfo.cs
+C:\Users\ctrujillogam\source\repos\VACT\VACT.Models\obj\Debug\net8.0\VACT.Models.csproj.CoreCompileInputs.cache
+C:\Users\ctrujillogam\source\repos\VACT\VACT.Models\obj\Debug\net8.0\VACT.Models.sourcelink.json
+C:\Users\ctrujillogam\source\repos\VACT\VACT.Models\obj\Debug\net8.0\VACT.Models.dll
+C:\Users\ctrujillogam\source\repos\VACT\VACT.Models\obj\Debug\net8.0\refint\VACT.Models.dll
+C:\Users\ctrujillogam\source\repos\VACT\VACT.Models\obj\Debug\net8.0\VACT.Models.pdb
+C:\Users\ctrujillogam\source\repos\VACT\VACT.Models\obj\Debug\net8.0\ref\VACT.Models.dll
